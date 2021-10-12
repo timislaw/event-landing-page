@@ -1,0 +1,33 @@
+.cardWrapper{
+    padding: 100px;
+}
+
+.speakerCard{
+    padding: 60px;
+}
+
+.speakerCard > *{
+    margin-bottom: 30px;
+}
+
+.img-thumbnail{
+    border: none;
+    border-radius: 10px;
+}
+a:link{
+    text-decoration: none;
+}
+.nav-link{
+    color: black;
+    font-weight: bolder;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: gray;
+}
+.jumbotron-fluid{
+    background-image: url(../img/faroe-islands-1975406_960_720.webp);
+    background-size;
+}
